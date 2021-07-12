@@ -1,4 +1,4 @@
-# Image Classification Convolutional Neural Networks
+# Image Classification Using Convolutional Neural Networks
 
 Our aim in this project was to design a CNN  based classifier that classified input images into 10 classes, and testing different structures.
 
